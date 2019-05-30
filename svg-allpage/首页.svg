@@ -19,7 +19,7 @@
       }
 
       .cls-5 {
-        fill: #162447;
+        fill: #ffd150;
         font-size: 12px;
         font-family: .PingFang-SC-Medium, ".PingFang SC";
         font-weight: 500;
@@ -30,15 +30,15 @@
       }
 
       .cls-7 {
-        fill: #fff;
-      }
-
-      .cls-8 {
         stroke: none;
       }
 
-      .cls-9 {
+      .cls-8 {
         fill: none;
+      }
+
+      .cls-9 {
+        fill: #fff;
       }
     </style>
     <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 750 1334">
@@ -55,15 +55,14 @@
     </clipPath>
   </defs>
   <g id="首页" class="cls-1">
-    <rect class="cls-7" width="375" height="667"/>
+    <rect class="cls-9" width="375" height="667"/>
     <g id="首页背景画板_1" data-name="首页背景画板 1" class="cls-2">
-      <rect class="cls-8" width="375" height="667"/>
-      <rect class="cls-9" x="0.5" y="0.5" width="374" height="666"/>
+      <rect class="cls-7" width="375" height="667"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="374" height="666"/>
     </g>
     <rect id="矩形_1" data-name="矩形 1" class="cls-3" width="375" height="60"/>
     <rect id="开始button" class="cls-4" width="155" height="65" transform="translate(110 537)"/>
     <text id="_2019.Powered_By_Bingyan_Studio" data-name="2019.Powered By Bingyan Studio" class="cls-5" transform="translate(93 651)"><tspan x="0" y="0">2019.Powered By Bingyan Studio</tspan></text>
     <rect id="冰岩icon画板_1" data-name="冰岩icon画板 1" class="cls-6" width="19" height="21" transform="translate(70 636)"/>
-    <circle id="椭圆_1" data-name="椭圆 1" class="cls-7" cx="22" cy="22" r="22" transform="translate(323 68)"/>
   </g>
 </svg>

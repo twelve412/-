@@ -2,7 +2,7 @@
   <defs>
     <style>
       .cls-1 {
-        clip-path: url(#clip-展开账单);
+        clip-path: url(#clip-展开账单_先不要用这个_);
       }
 
       .cls-2, .cls-3, .cls-5 {
@@ -90,11 +90,11 @@
     <pattern id="pattern-6" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 40 24">
       <image width="40" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAYCAYAAACIhL/AAAAACXBIWXMAAAsSAAALEgHS3X78AAABvElEQVRIic2Xu1XDMBSGf3LSQ6eWRjWMEDp1YYMkG2SDmAkIEySZAEqV2QBSq0mrDiYI5/pcB6Fc2/Ijgb+xJUv2d+5TvjocDvjPGhKb0iYLGJfe2c+/YFba3ACYF2PvbDbk+0Ww7hbA9PJ4udYAxsE4GwiLJkqb9QWhcvE3x/H8QGlDFvuK5ieR2y8BN4mmc6aBd3YPYCRALpQ2Z3d1BRwx4ZjFSpt7AO/CO2be2bO4vArOO/tBg2MM8sRMeM+K4fuGy+rgEFow2EhuXdVt7AiX/I2TLGZ3PkXT1wC2nFDngCNNJQNIZSYvkAA2AuQbF9O+4SjO36Q9IiBDTgXIO7ZkY8gauNIkLAVkUdvZCZCNslppM2oDVwvIPXkkQI5Tuw1XAMl9SeUr6TTDLt1zHIbacChUwW2FfS/e2XnJtl+qc3GuwJJSSxQBK+A2qXBIBcRPIZcgVzFkDVyj9tn4wKq0eQTwKjx68M5u24ZDb4Co7gQEv+RM7wzXGpAhKY6eE5buvLOte3lyDMbyzpKl4kJ+Alccmy4OiPJuU2jHzb/T/00vf3VKG8rwMO56gSN1smAgcmNhSbr2AgcA33A+1D9Fp/NPAAAAAElFTkSuQmCC"/>
     </pattern>
-    <clipPath id="clip-展开账单">
+    <clipPath id="clip-展开账单_先不要用这个_">
       <rect width="375" height="667"/>
     </clipPath>
   </defs>
-  <g id="展开账单" class="cls-1">
+  <g id="展开账单_先不要用这个_" data-name="展开账单(先不要用这个！）" class="cls-1">
     <rect class="cls-16" width="375" height="667"/>
     <g id="结算页背景画板_1" data-name="结算页背景画板 1" class="cls-2">
       <rect class="cls-14" width="375" height="667"/>

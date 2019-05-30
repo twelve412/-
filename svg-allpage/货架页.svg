@@ -13,7 +13,7 @@
         fill: url(#pattern);
       }
 
-      .cls-17, .cls-4, .cls-7 {
+      .cls-4, .cls-6, .cls-7 {
         fill: #fff;
       }
 
@@ -27,10 +27,6 @@
 
       .cls-5 {
         fill: #ea5454;
-      }
-
-      .cls-6 {
-        fill: #ececec;
       }
 
       .cls-7 {
@@ -101,7 +97,7 @@
     </clipPath>
   </defs>
   <g id="货架页" class="cls-1">
-    <rect class="cls-17" width="375" height="667"/>
+    <rect class="cls-6" width="375" height="667"/>
     <rect id="矩形_27" data-name="矩形 27" class="cls-2" width="375" height="667"/>
     <rect id="货架中部画板_1" data-name="货架中部画板 1" class="cls-3" width="378" height="667" transform="translate(-1)"/>
     <g id="矩形_36" data-name="矩形 36" class="cls-4" transform="translate(0 602)">
